@@ -6,7 +6,7 @@ Welcome to the DataStructureAndAlgorithm Study Engine! This repository serves as
 
 1. Introduction to Data Structures
    - [Array](https://github.com/pushkarkumarlal/DataStructureAndAlgorithm-Study-Engine/tree/main/Array)
-   - Linked List
+   - [Linked List](https://github.com/pushkarkumarlal/DataStructureAndAlgorithm-Study-Engine/tree/main/LinkedList)
    - Stack
    - Queue
    - Tree
