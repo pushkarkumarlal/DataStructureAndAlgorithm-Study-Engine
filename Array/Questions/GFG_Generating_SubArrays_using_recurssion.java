@@ -18,7 +18,36 @@ note:-  In general, for an array/string of size n, there are n*(n+1)/2 non-empty
 // * Increment the end index if the start has become greater than end
 // * Print the subarray from index start to end and increment the starting index
 
+class Main{
+    
+    public static void subArray(int[] arr,int start,int end){
+        
+        if(end==arr.length){
+            return;
+        }
+        else if(start > end){
+            subArray(arr,0,end+1);
+            
+        }else{
+            System.out.print("[");
+            
+            for(int i=start;i<end;i++){
+                System.out.print(arr[i]+" ");
+        }
+        
 
+        System.out.println(arr[end]+"]");
+        subArray(arr,start+1,end);
+    }
+        return;
+    }
+    public static void main(String[] args){
+        
+        int[] arr={1,2,3,4,5,6,7,8,9,10};
+        subArray(arr,0,0);
+        
+    }
+}
 
 
 
