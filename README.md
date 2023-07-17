@@ -48,16 +48,10 @@ Welcome to the DataStructureAndAlgorithm Study Engine! This repository serves as
    - Coding Challenges
    - Tips and Tricks
 
-7. Additional Resources
-   - Books and Online Courses
-   - Websites and Online Platforms
-   - Practice Problems and Platforms
-   - Coding Tools and IDEs
-
 ## How to Use
 
 To make the most of this repository, simply navigate to the desired topic within the table of contents. Each section contains detailed explanations, code examples, and illustrations to help you understand and implement the concepts effectively.
 
-Feel free to explore, learn, and contribute to this repository. We hope that this study engine will be a valuable resource for your journey in mastering data structures and algorithms.
+Feel free to explore, learn, and contribute to this repository. We hope that this study engine will be a valuable resource for your journey to mastering data structures and algorithms.
 
 Happy coding!
